@@ -14,3 +14,6 @@ This is a basic application for showing the use of shared preference by increasi
 ![Nllll](https://user-images.githubusercontent.com/68476336/117138120-363d8d00-adc8-11eb-845d-9a58cfd8ce29.PNG)
 ![Nlllll](https://user-images.githubusercontent.com/68476336/117138214-553c1f00-adc8-11eb-8ff3-25f3b53476de.PNG)
 
+# APK
+
+you can check APK here(https://github.com/karanchhatwani1/HelloSharedPrefs/blob/master/app-debug.apk)
